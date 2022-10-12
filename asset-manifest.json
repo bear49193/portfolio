@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fb31a9f6.chunk.css",
+    "main.js": "/static/js/main.83a154c9.chunk.js",
+    "main.js.map": "/static/js/main.83a154c9.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e5fc83a6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e5fc83a6.js.map",
+    "static/js/2.146c7337.chunk.js": "/static/js/2.146c7337.chunk.js",
+    "static/js/2.146c7337.chunk.js.map": "/static/js/2.146c7337.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.4cd3f9f9bdf11d988237644156cab816.js": "/precache-manifest.4cd3f9f9bdf11d988237644156cab816.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.fb31a9f6.chunk.css.map": "/static/css/main.fb31a9f6.chunk.css.map",
+    "static/js/2.146c7337.chunk.js.LICENSE.txt": "/static/js/2.146c7337.chunk.js.LICENSE.txt",
+    "static/media/code.svg": "/static/media/code.f3afea6e.svg",
+    "static/media/hexlogo.svg": "/static/media/hexlogo.8f53edd1.svg",
+    "static/media/plate.svg": "/static/media/plate.50baad3b.svg",
+    "static/media/plato.svg": "/static/media/plato.9542bf91.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e5fc83a6.js",
+    "static/js/2.146c7337.chunk.js",
+    "static/css/main.fb31a9f6.chunk.css",
+    "static/js/main.83a154c9.chunk.js"
+  ]
+}
